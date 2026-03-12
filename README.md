@@ -118,8 +118,4 @@ MANPOWER_PWN_(M).xlsm
 
 ---
 
-## 📌 Related Projects
-
-- [Watch Sales Analysis Dashboard](../watch-sales-dashboard) — Power BI + SQL sales KPI tracker
-- [HR Data Dashboard](../hr-data-dashboard) — Excel HR analytics dashboard
 
